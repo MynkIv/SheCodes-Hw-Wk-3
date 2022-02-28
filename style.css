@@ -102,3 +102,12 @@ p {
   border: 10px solid white;
   border-radius: 5px;
 }
+
+@media (max-width: 576px) {
+  .index-h1 {
+    font-size: 40px;
+  }
+  .index-h2 {
+    font-size: 24px;
+  }
+}
